@@ -2,6 +2,10 @@
 This project is a small mobile desktop robot. My research students and I decided to embark on this project to teach them the basics of mechatronics and have a bit of fun along the way. For the fun aspect, we decided to make the robot 'lively'; just like dasai mochi. The design is more aesthetic than functional.
 
 
+## Project Goals
+- Get hands-on with Robotics Engineering
+- Document every stage publicly
+
 ## Current Status
 - Project Planning ✅
 - Component Selection ✅
@@ -19,9 +23,6 @@ This project is a small mobile desktop robot. My research students and I decided
 -
 
 
-## Project Goals
-- Get hands-on with Robotics Engineering
-- Document every stage publicly
 
 ## Hardware
 1. ESP32 S3 - 1x
