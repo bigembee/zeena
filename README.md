@@ -40,3 +40,9 @@ This project is a small mobile desktop robot. My research students and I decided
 
 
 ## How it works
+
+
+## Design Trade-offs and Why
+1. **GY-530 VL53LOX** vs HC-SR04: the HC-SR04 is the cheaper, most common option for use cases like this. However, because of its bulk and its impact on our overall design, the GY-530 was favoured. It's a compact Time-of-Flight (ToF) laser distance measurement sensor. It can be hidden, tucked away behind the chassis of the bot without impacting the design.
+
+2. 
