@@ -1,6 +1,19 @@
 # zeena
 This project is a small mobile desktop robot. My research students and I decided to embark on this project to teach them the basics of mechatronics and have a bit of fun along the way. For the fun aspect, we decided to make the robot 'lively'; just like dasai mochi. The design is more aesthetic than functional.
 
+
+## Current Status
+- Project Planning ✅
+- Component Selection ✅
+- Circuit Design ✅
+- Wiring circuit board
+- Chassis Design
+- Motor Control
+- Navigation
+- Speech recognition
+- General functionality
+
+
 ## Features
 -
 -
