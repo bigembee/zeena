@@ -16,7 +16,13 @@ This project is a small mobile desktop robot. My research students and I decided
 3. 
 
 
+## Electronics
+
+
 ## Software stack
 1. Arduino IDE
 2. C++
 3. 
+
+
+## How it works
